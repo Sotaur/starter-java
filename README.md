@@ -1,10 +1,10 @@
-# Welcome to the Java Guild!
+# Welcome to the Kotlin Guild!
 
-As members of the Java Guild, you will be working through the challenges of TwilioQuest using the Java programming language and the [Spark Framework](http://sparkjava.com/).  This project is pre-configured to have some interesting functionality built in using the Twilio Java helper library.
+As members of the Kotlin Guild, you will be working through the challenges of TwilioQuest using the Java programming language and the [Spark Framework](http://sparkjava.com/).  This project is pre-configured to have some interesting functionality built in using the Twilio Java helper library.
 
 ## Setting Up
 
-As a first step, you should [download this project](https://github.com/twilio/starter-java), or clone it if you are a Git user.  Navigate to the directory for this project, and open it with your favorite text editor.
+As a first step, you should [download this project](https://github.com/Sotaur/starter-kotlin), or clone it if you are a Git user.  Navigate to the directory for this project, and open it with your favorite text editor.
 
 Before you can run this project, you will need to set three system environment variables.  These are:
 
